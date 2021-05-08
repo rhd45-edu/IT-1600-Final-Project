@@ -1,10 +1,10 @@
 # IT-1600-Final-Project
 
-1. CPU
-2. CPU Cooler
-3. Motherboard
-4. Memory
-5. Storage
-6. Video Card
-7. Case
-8. Power Supply
+1. [CPU](https://github.com/rhd45-edu/IT-1600-Final-Project/blob/main/cpu.md)
+2. [CPU Cooler](https://github.com/rhd45-edu/IT-1600-Final-Project/blob/main/cpucooler.md)
+3. [Motherboard](https://github.com/rhd45-edu/IT-1600-Final-Project/blob/main/motherboard.md)
+4. [Memory](https://github.com/rhd45-edu/IT-1600-Final-Project/blob/main/memory.md)
+5. [Storage](https://github.com/rhd45-edu/IT-1600-Final-Project/blob/main/storage.md)
+6. [Video Card](https://github.com/rhd45-edu/IT-1600-Final-Project/blob/main/videocard.md)
+7. [Case](https://github.com/rhd45-edu/IT-1600-Final-Project/blob/main/case.md)
+8. [Power Supply](https://github.com/rhd45-edu/IT-1600-Final-Project/blob/main/powersupply.md)
