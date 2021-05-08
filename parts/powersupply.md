@@ -1,2 +1,2 @@
 # Power Supply
-## ![Power Supply](../images/powersupply.jpg)
+![Power Supply](../images/powersupply.jpg)
