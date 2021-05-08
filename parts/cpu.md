@@ -1,2 +1,2 @@
 # Central Processing Unit (CPU) 
-## ![AMDvsIntel CPU](../images/intelAMD.jpg)
+![AMDvsIntel CPU](../images/intelAMD.jpg)
