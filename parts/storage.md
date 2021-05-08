@@ -1,2 +1,2 @@
 # Storage
-## ![Storage Devices](../images/storages/.jpg)
+## ![Storage Devices](../images/storages.jpg)
