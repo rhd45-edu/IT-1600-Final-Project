@@ -7,5 +7,5 @@ Both companies have different motherboard sockets, supported technologies, and a
 It is important to compare the differences between CPUs and brands in order to meet your individual needs.
 ![AMDvsIntel CPU](../images/intelAMD.jpg)
 
-[Return to Home](https://github.com/rhd45-edu/IT-1600-Final-Project#readme)
+[Return to Home](https://github.com/rhd45-edu/IT-1600-Final-Project#readme)  
 [Next Part: CPU Cooler](cpucooler.md)
