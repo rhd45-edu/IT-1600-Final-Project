@@ -1,4 +1,6 @@
-# IT-1600-Final-Project
+# General Overview of Components needed to build a Computer
+## By: Raphael Hutchins
+### This document is meant to inform those who have interest in building a computer and want to know what the 8 parts are.
 
 1. [CPU](https://github.com/rhd45-edu/IT-1600-Final-Project/blob/main/cpu.md)
 2. [CPU Cooler](https://github.com/rhd45-edu/IT-1600-Final-Project/blob/main/cpucooler.md)
