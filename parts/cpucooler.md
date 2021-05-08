@@ -1,12 +1,12 @@
 # CPU Cooler
 ## A CPU cooler is used to dissapate heat from the CPU. There are two main forms of CPU coolers: Air Cooler and Liquid Cooler.
 
-** Air Cooler **
+**Air Cooler**  
 An Air Cooler relies on its heatsink and fan(s) to remove heat from the CPU. The heat travels through the heatsink and the 
 heatsink is cooled by the included fans.
 ![Air Cooler](../images/airCooled.jpg)  
 
-** Liquid Cooled **
+**Liquid Cooler**  
 A Liquid Cooler uses a liquid that travels in a closed looped to remove heat from the CPU. The liquid travels along the loop and heats the CPU 
 cooling it off. Then the hot liquid goes back through the radiator to dissapate the heat and goes back to the CPU.  
 ![Liquid Cooler](../images/liquidCooled.jpg)
